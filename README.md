@@ -11,3 +11,9 @@ Repository with examples for the Medium articles:
   - Build and run application via Docker: `docker-compose up`
   - Visit http://localhost/
   - Use login `demo` and password `demo` for the [Django Admin](http://localhost/admin) page
+
+
+## What we do before when we 'compose up'
+Please follow commit ""
+- Fix error because postgres will search port 5432 at local as default
+- Fix error because postgres will require environment to connect
