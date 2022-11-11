@@ -14,6 +14,9 @@ Repository with examples for the Medium articles:
 
 
 ## What we do before when we 'compose up'
-Please follow commit ""
+Please follow commit "https://github.com/PorcoRosso85/elasticsearch_django/commit/c45354ac03fe905b1337c4cb162daacfcb293f40"
 - Fix error because postgres will search port 5432 at local as default
+[ref](https://github.com/docker/awesome-compose/tree/master/official-documentation-samples/django)
+[ref](https://stackoverflow.com/questions/23724713/installing-postgresql-within-a-docker-container)
 - Fix error because postgres will require environment to connect
+[ref](https://qiita.com/takos/items/c04ac2a64d519894ee13)
